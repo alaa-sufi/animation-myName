@@ -12,7 +12,7 @@ html, body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
-  border-color: #333;
+  background-color: #333;
 }
 
 .wrapper {
